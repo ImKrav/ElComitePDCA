@@ -34,4 +34,3 @@ Iniciar frontend y backend:
 ```
 npm run dev
 ```
->>>>>>> d074cfc (Guide: Installation and important commands)
